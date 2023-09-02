@@ -89,6 +89,7 @@ export default function Home() {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Explore the Next.js 13 playground.
           </p>
+          <p>test</p>
         </a>
 
         <a
